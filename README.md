@@ -1,3 +1,9 @@
+#  😎 Whoami：Haunted-Banshee
+----
+
 ![](https://github-readme-stats.vercel.app/api?username=Haunted-Banshee&show_icons=true&theme=dark&count_private=true)
-<img src="https://visitor-badge.glitch.me/badge?page_id=Githubhttps://github.com/Haunted-Banshee&right_color=red" />
-![](https://stats.justsong.cn/api/leetcode/?username=Haunted-Banshee&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Haunted-Banshee&layout=compact&theme=tokyonight)
+
+
+
+![](https://activity-graph.herokuapp.com/graph?username=Haunted-Banshee&theme=github)
